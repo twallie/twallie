@@ -8,4 +8,4 @@ Feel free to take a look around my profile, I have a lot of fun projects laying 
 **For a full list of projects and previous work, check out [my website](https://www.thomaswallsmith.com).** 
 
 ## I am currently looking for work!
-If you are a business that is needing a software engineer to address your business needs, please reach out! More information is available on [my website](https://www.thomaswallsmith.com).
+If you are a business that is needing a software engineer, please reach out! More information is available on [my website](https://www.thomaswallsmith.com).
