@@ -1,5 +1,5 @@
 # Welcome to Tom's GitHub!
-Hi, I'm Thomas Wallsmith (but you can call me Tom). I'm a software developer currently attending the University of Central Florida here in beautiful Orlando, Florida.
+Hi, I'm Thomas Wallsmith (but you can call me Tom). I'm a software developer currently working at Stablein Solutions here in beautiful Tampa, Florida.
 
 I'm always looking for exciting projects to work on. If you'd like to reach out, feel free to shoot me an email at `thomaswallsmith@gmail.com`.
 
